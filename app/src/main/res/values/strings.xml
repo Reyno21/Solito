@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Solito</string>
+    <string name="saludos">Bienvenido</string>
+    <string name="usuario">Ingrese su usuario</string>
+    <string name="password">Ingrese su contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="salir">Salir</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="Imagenes">Imagenes</string>
+    <string name="Web">Web</string>
+    <string name="Video">Video</string>
+    <string name="Maps">Maps</string>
+    <string name="Loco">Loco</string>
+    <string name="Acerca_de">Creditos</string>
+    <string name="saludo">Bienvenidos</string>
+</resources>
